@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VaCUM0UiyzKFzbbJJcXOUDisdqeVUb8o0W3bsNARuTs=",
+  "Hash": "iphaE/pJ3q2Qp6Pndc9O/CjwEMOSJahLyb2ySsvhoOA=",
   "Source": "ProniaMVC",
   "BasePath": "_content/ProniaMVC",
   "Mode": "Default",
@@ -2810,6 +2810,25 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-6-270x300.jpg"
     },
     {
+      "Identity": "C:\\Users\\BLACK\\Desktop\\ProniaMVC\\ProniaMVC\\wwwroot\\assets\\images\\website-images\\1699458136_rosen-messi-miami.jpg",
+      "SourceId": "ProniaMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\BLACK\\Desktop\\ProniaMVC\\ProniaMVC\\wwwroot\\",
+      "BasePath": "_content/ProniaMVC",
+      "RelativePath": "assets/images/website-images/1699458136_rosen-messi-miami.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1699458136_rosen-messi-miami.jpg"
+    },
+    {
       "Identity": "C:\\Users\\BLACK\\Desktop\\ProniaMVC\\ProniaMVC\\wwwroot\\assets\\images\\website-images\\1-7-270x300.jpg",
       "SourceId": "ProniaMVC",
       "SourceType": "Discovered",
@@ -2981,6 +3000,25 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\2-3-70x78.png"
     },
     {
+      "Identity": "C:\\Users\\BLACK\\Desktop\\ProniaMVC\\ProniaMVC\\wwwroot\\assets\\images\\website-images\\28003-1710080339.webp",
+      "SourceId": "ProniaMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\BLACK\\Desktop\\ProniaMVC\\ProniaMVC\\wwwroot\\",
+      "BasePath": "_content/ProniaMVC",
+      "RelativePath": "assets/images/website-images/28003-1710080339.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\28003-1710080339.webp"
+    },
+    {
       "Identity": "C:\\Users\\BLACK\\Desktop\\ProniaMVC\\ProniaMVC\\wwwroot\\assets\\images\\website-images\\3.png",
       "SourceId": "ProniaMVC",
       "SourceType": "Discovered",
@@ -3074,6 +3112,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\quotation.png"
+    },
+    {
+      "Identity": "C:\\Users\\BLACK\\Desktop\\ProniaMVC\\ProniaMVC\\wwwroot\\assets\\images\\website-images\\Messi_vs_Nigeria_2018.jpg",
+      "SourceId": "ProniaMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\BLACK\\Desktop\\ProniaMVC\\ProniaMVC\\wwwroot\\",
+      "BasePath": "_content/ProniaMVC",
+      "RelativePath": "assets/images/website-images/Messi_vs_Nigeria_2018.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\Messi_vs_Nigeria_2018.jpg"
     },
     {
       "Identity": "C:\\Users\\BLACK\\Desktop\\ProniaMVC\\ProniaMVC\\wwwroot\\assets\\images\\website-images\\service.png",
