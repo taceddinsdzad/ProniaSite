@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iphaE/pJ3q2Qp6Pndc9O/CjwEMOSJahLyb2ySsvhoOA=",
+  "Hash": "sulWuziAgJ7VFAt+SWKq/Z/mkcj0jLW1zFHEkV8KXVc=",
   "Source": "ProniaMVC",
   "BasePath": "_content/ProniaMVC",
   "Mode": "Default",
@@ -3131,6 +3131,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\Messi_vs_Nigeria_2018.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\BLACK\\Desktop\\ProniaMVC\\ProniaMVC\\wwwroot\\assets\\images\\website-images\\Rose.jpg",
+      "SourceId": "ProniaMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\BLACK\\Desktop\\ProniaMVC\\ProniaMVC\\wwwroot\\",
+      "BasePath": "_content/ProniaMVC",
+      "RelativePath": "assets/images/website-images/Rose.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\Rose.jpg"
     },
     {
       "Identity": "C:\\Users\\BLACK\\Desktop\\ProniaMVC\\ProniaMVC\\wwwroot\\assets\\images\\website-images\\service.png",
