@@ -85,6 +85,10 @@
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
     },
     {
+      "Id": "C:\\Users\\BLACK\\Desktop\\ProniaMVC\\ProniaMVC\\wwwroot\\assets\\images\\aHR0cHM6Ly9iLnN0YWJsZWNvZy5jb20vZDM5OWM2MzAtMWQ2ZS00NjQzLTg3ZjUtODM0ZjA2NmFmMTZmLmpwZWc.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\aHR0cHM6Ly9iLnN0YWJsZWNvZy5jb20vZDM5OWM2MzAtMWQ2ZS00NjQzLTg3ZjUtODM0ZjA2NmFmMTZmLmpwZWc.webp"
+    },
+    {
       "Id": "C:\\Users\\BLACK\\Desktop\\ProniaMVC\\ProniaMVC\\wwwroot\\assets\\images\\about\\icon\\1.png",
       "PackagePath": "staticwebassets\\assets\\images\\about\\icon\\1.png"
     },
@@ -239,6 +243,10 @@
     {
       "Id": "C:\\Users\\BLACK\\Desktop\\ProniaMVC\\ProniaMVC\\wwwroot\\assets\\images\\favicon.ico",
       "PackagePath": "staticwebassets\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\BLACK\\Desktop\\ProniaMVC\\ProniaMVC\\wwwroot\\assets\\images\\flovergbt.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\flovergbt.webp"
     },
     {
       "Id": "C:\\Users\\BLACK\\Desktop\\ProniaMVC\\ProniaMVC\\wwwroot\\assets\\images\\footer\\bg\\1-1920x465.jpg",
@@ -655,6 +663,22 @@
     {
       "Id": "C:\\Users\\BLACK\\Desktop\\ProniaMVC\\ProniaMVC\\wwwroot\\assets\\images\\website-images\\dark.png",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\dark.png"
+    },
+    {
+      "Id": "C:\\Users\\BLACK\\Desktop\\ProniaMVC\\ProniaMVC\\wwwroot\\assets\\images\\website-images\\flover-4104490_1280.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\flover-4104490_1280.webp"
+    },
+    {
+      "Id": "C:\\Users\\BLACK\\Desktop\\ProniaMVC\\ProniaMVC\\wwwroot\\assets\\images\\website-images\\flovergbt2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\flovergbt2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BLACK\\Desktop\\ProniaMVC\\ProniaMVC\\wwwroot\\assets\\images\\website-images\\flovergbt4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\flovergbt4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BLACK\\Desktop\\ProniaMVC\\ProniaMVC\\wwwroot\\assets\\images\\website-images\\lale.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\lale.jpg"
     },
     {
       "Id": "C:\\Users\\BLACK\\Desktop\\ProniaMVC\\ProniaMVC\\wwwroot\\assets\\images\\website-images\\quotation.png",

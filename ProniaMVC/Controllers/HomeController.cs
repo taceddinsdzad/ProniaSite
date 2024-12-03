@@ -14,7 +14,7 @@ namespace ProniaMVC.Controllers
         {
             _context = context;
         }
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
             Product product = new();
 
@@ -23,8 +23,18 @@ namespace ProniaMVC.Controllers
             HomeVM homeVM = new HomeVM()
             {
                 //Slides = slides.OrderBy(s => s.Order).Take(2).ToList()
-                Slides = _context.Slides.OrderBy(s => s.Order).Take(2).ToList(),
-                Products = _context.Products.Include(p => p.ProductImages).ToList()
+                Slides = await _context.Slides
+                .Where(p => p.IsDeleted == false)
+                .OrderBy(s => s.Order)
+                .Take(2)
+                .ToListAsync(),
+
+                Products = await _context.Products
+                .Where(p => p.IsDeleted == false)
+                .Take(8)
+                .Include(p => p.ProductImages
+                .Where(pi => pi.IsPrimary != false))
+                .ToListAsync()
             };
 
             return View(homeVM);

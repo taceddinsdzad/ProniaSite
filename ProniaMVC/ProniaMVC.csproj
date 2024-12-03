@@ -13,6 +13,14 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\ProniaAdmin\Controllers\" />
+    <Folder Include="Areas\ProniaAdmin\Data\" />
+    <Folder Include="Areas\ProniaAdmin\Models\" />
+    <Folder Include="Areas\ProniaAdmin\Views\" />
   </ItemGroup>
 
 </Project>
