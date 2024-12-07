@@ -17,10 +17,18 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Areas\ProniaAdmin\Controllers\" />
-    <Folder Include="Areas\ProniaAdmin\Data\" />
-    <Folder Include="Areas\ProniaAdmin\Models\" />
-    <Folder Include="Areas\ProniaAdmin\Views\" />
+    <Folder Include="Areas\Admin\Data\" />
+    <Folder Include="Areas\Admin\Models\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Admin\fonts\.DS_Store" />
+    <None Include="wwwroot\Admin\fonts\Roboto\.DS_Store" />
+    <None Include="wwwroot\Admin\images\.DS_Store" />
+    <None Include="wwwroot\Admin\images\auth\.DS_Store" />
+    <None Include="wwwroot\Admin\images\faces\.DS_Store" />
+    <None Include="wwwroot\Admin\js\.DS_Store" />
+    <None Include="wwwroot\Admin\vendors\.DS_Store" />
   </ItemGroup>
 
 </Project>
