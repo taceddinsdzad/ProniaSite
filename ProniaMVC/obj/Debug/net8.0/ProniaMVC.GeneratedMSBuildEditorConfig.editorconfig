@@ -46,8 +46,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/BLACK/Desktop/ProniaMVC/ProniaMVC/Areas/Admin/Views/Slide/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2xpZGVcQ3JlYXRlLmNzaHRtbA==
+[C:/Users/BLACK/Desktop/ProniaMVC/ProniaMVC/Areas/Admin/Views/Slide/CreateSlide.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2xpZGVcQ3JlYXRlU2xpZGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/BLACK/Desktop/ProniaMVC/ProniaMVC/Areas/Admin/Views/Slide/Index.cshtml]
